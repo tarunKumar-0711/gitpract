@@ -1,2 +1,5 @@
 First text is added.
 NoSecurityBreach
+
+New feature 1
+
